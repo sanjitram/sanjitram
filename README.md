@@ -26,13 +26,6 @@
 
 <div align= "center">
   
-## 📊 GitHub Stats:
-<img height=200 align="left" src="http://github-readme-stats.vercel.app/api?username=sanjitram&theme=catppuccin_mocha" />
-<img height=200 align="center" src="http://github-readme-stats.vercel.app/api/top-langs?username=sanjitram&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha" />
-</div>
-
-
-
 
 <!---
 sanjitram/sanjitram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
