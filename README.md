@@ -24,12 +24,10 @@
 
 </div>
 
-<div align= "center">
-## 📊 GitHub Stats:
-<img height=200 align="left" src="http://github-readme-stats.vercel.app/api?username=sanjitram&theme=catppuccin_mocha" />
-<img height=200 align="center" src="http://github-readme-stats.vercel.app/api/top-langs?username=sanjitram&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha" />
-</div>
+<h3 align="left">GitHub Stats:</h3>
 
+![](https://denvercoder1-github-readme-streak-s.vercel.app?user=sanjitram&theme=dark&hide_border=false)
+![](https://anuraghazra-github-readme-stats-nu.vercel.app/api?username=sanjitram&theme=dark&hide_border=false)
 
 
   
