@@ -24,7 +24,7 @@
 
 </div>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="centre">GitHub Stats:</h3>
 
 ![](https://denvercoder1-github-readme-streak-s.vercel.app?user=sanjitram&theme=dark&hide_border=false)
 ![](https://anuraghazra-github-readme-stats-nu.vercel.app/api?username=sanjitram&theme=dark&hide_border=false)
