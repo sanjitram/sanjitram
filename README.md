@@ -27,8 +27,8 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://denvercoder1-github-readme-streak-s.vercel.app?user=sanjitram&theme=dark&hide_border=false"/>
-  <img src="https://anuraghazra-github-readme-stats-nu.vercel.app/api?username=sanjitram&theme=dark&hide_border=false"/>
+  <img src="https://denvercoder1-github-readme-streak-s.vercel.app?user=sanjitram&theme=cobalt&hide_border=true"/>
+  <img src="https://anuraghazra-github-readme-stats-nu.vercel.app/api?username=sanjitram&theme=cobalt&hide_border=true"/>
 </div>
 
 
