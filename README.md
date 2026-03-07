@@ -24,10 +24,12 @@
 
 </div>
 
-<h3 align="centre">GitHub Stats:</h3>
+<h3 align="center">GitHub Stats</h3>
 
-![](https://denvercoder1-github-readme-streak-s.vercel.app?user=sanjitram&theme=dark&hide_border=false)
-![](https://anuraghazra-github-readme-stats-nu.vercel.app/api?username=sanjitram&theme=dark&hide_border=false)
+<div align="center">
+  <img src="https://denvercoder1-github-readme-streak-s.vercel.app?user=sanjitram&theme=dark&hide_border=false"/>
+  <img src="https://anuraghazra-github-readme-stats-nu.vercel.app/api?username=sanjitram&theme=dark&hide_border=false"/>
+</div>
 
 
   
