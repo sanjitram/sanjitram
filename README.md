@@ -1,7 +1,7 @@
 
 <div align = "center">
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,7 +24,7 @@
 
 </div>
 
-<h3 align="center">GitHub Stats</h3>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://denvercoder1-github-readme-streak-s.vercel.app?user=sanjitram&theme=dark&hide_border=false"/>
