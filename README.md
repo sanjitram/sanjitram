@@ -28,7 +28,7 @@
 <div align="center">
   <img src="https://denvercoder1-github-readme-streak-s.vercel.app?user=sanjitram&theme=cobalt&hide_border=true"/><br><br>
   <img src="https://anuraghazra-github-readme-stats-nu.vercel.app/api?username=sanjitram&theme=cobalt&hide_border=true"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjitram&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjitram&layout=compact&theme=cobalt&hide_border=true"/>
 </div>
 
   
