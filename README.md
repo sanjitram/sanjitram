@@ -1,8 +1,6 @@
 
 <div align = "center">
 
-## 💻 Tech Stack
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,7 +22,7 @@
 
 </div>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="center">Stats</h2>
 <div align="center">
   <img src="https://denvercoder1-github-readme-streak-s.vercel.app?user=sanjitram&theme=cobalt&hide_border=true"/><br><br>
   <img src="https://anuraghazra-github-readme-stats-nu.vercel.app/api?username=sanjitram&theme=cobalt&hide_border=true"/><br><br>
